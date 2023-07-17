@@ -1,0 +1,52 @@
+
+SetPlayerPos(playerid, 1447.612548,-24.116228,-55.601955);
+SetPlayerFacingAngle(playerid, 170.219665);
+Judul : disnaker
+SetPlayerPos(playerid, -2046.077148,-2323.894287,30.625000);
+SetPlayerFacingAngle(playerid, 305.547515);
+Judul : potongkayu1
+SetPlayerPos(playerid, -2043.417968,-2327.043701,30.625000);
+SetPlayerFacingAngle(playerid, 301.666961);
+Judul : potongkayu2
+SetPlayerPos(playerid, -1990.673095,-2421.430175,30.625000);
+SetPlayerFacingAngle(playerid, 313.490081);
+Judul : olahkayu1
+SetPlayerPos(playerid, -1989.234252,-2423.155761,30.625000);
+SetPlayerFacingAngle(playerid, 221.528991);
+Judul : olahkayu2
+SetPlayerPos(playerid, -1987.410400,-2424.807861,30.625000);
+SetPlayerFacingAngle(playerid, 218.597198);
+Judul : olahkayu3
+SetPlayerPos(playerid, -1985.931274,-2426.339843,30.625000);
+SetPlayerFacingAngle(playerid, 203.916213);
+Judul : olahkayu4
+SetPlayerPos(playerid, -1992.391967,-2364.465820,30.631776);
+SetPlayerFacingAngle(playerid, 279.175506);
+Judul : nebang1
+SetPlayerPos(playerid, -1981.812744,-2357.883544,30.631776);
+SetPlayerFacingAngle(playerid, 306.129669);
+Judul : nebang2
+SetPlayerPos(playerid, -1982.100341,-2373.554931,30.631776);
+SetPlayerFacingAngle(playerid, 299.089355);
+Judul : nebang3
+SetPlayerPos(playerid, 1316.866088,-872.307128,39.626033);
+SetPlayerFacingAngle(playerid, 353.424621);
+Judul : menu pedg
+SetPlayerPos(playerid, 1318.067016,-861.774475,39.726036);
+SetPlayerFacingAngle(playerid, 6.401624);
+Judul : masak
+SetPlayerPos(playerid, 1311.526611,-865.060852,39.726036);
+SetPlayerFacingAngle(playerid, 189.365402);
+Judul : ambilminum
+SetPlayerPos(playerid, 1303.972045,-1338.869506,13.722788);
+SetPlayerFacingAngle(playerid, 265.453094);
+Judul : garasi pd
+SetPlayerPos(playerid, 1325.951171,-862.046752,39.726036);
+SetPlayerFacingAngle(playerid, 85.081848);
+Judul : spawnpedagang
+SetPlayerPos(playerid, 731.039245,-1437.234619,13.823826);
+SetPlayerFacingAngle(playerid, 270.832824);
+Judul : spawnrs
+SetPlayerPos(playerid, 1300.503417,-1358.428710,15.476866);
+SetPlayerFacingAngle(playerid, 355.460937);
+Judul : spawnpolis

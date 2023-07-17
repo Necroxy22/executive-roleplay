@@ -1,0 +1,4 @@
+nambang dutyjob = 2
+penjahit dutyjob = 4
+minyak dutyjob = 1
+kayu dutyjob = 3

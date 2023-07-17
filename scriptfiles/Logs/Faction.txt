@@ -1,0 +1,315 @@
+[03/06/2022 - 16:51:34] - [FACTION]: Leon Vorcesno mengundang Rexxy Eduardo menjadi fraksi!
+[03/06/2022 - 16:53:02] - [FACTION]: Leon Vorcesno mengundang Rexxy Eduardo menjadi fraksi!
+[03/06/2022 - 17:39:53] - [FACTION]: Feliks menilang kendaraan BF-400(id: 104) dengan denda $5!
+[03/06/2022 - 23:31:59] - [FACTION]: Rexxy Eduardo menilang kendaraan Sanchez(id: 109) dengan denda $50!
+[03/06/2022 - 23:35:32] - [FACTION]: Rexxy Eduardo menilang kendaraan Sanchez(id: 109) dengan denda $500!
+[04/06/2022 - 12:54:05] - [FACTION]: Rexxy Eduardo menilang kendaraan Elegy(id: 113) dengan denda $25!
+[04/06/2022 - 20:27:41] - [FACTION]: Rexxy Eduardo mengundang Joe Alvarado menjadi fraksi!
+[04/06/2022 - 20:39:35] - [FACTION]: Leon Vorcesno menyetel fraksi Joe Alvarado ke rank!
+[04/06/2022 - 22:11:50] - [FACTION]: Rexxy Eduardo mengundang Maximilanio Delacruz menjadi fraksi!
+[04/06/2022 - 22:11:53] - [FACTION]: Rexxy Eduardo mengundang Maximilanio Delacruz menjadi fraksi!
+[05/06/2022 - 10:47:30] - [FACTION]: Klovyn Eduardo mengundang Leon menjadi fraksi!
+[05/06/2022 - 10:48:14] - [FACTION]: Klovyn Eduardo mengundang Leon menjadi fraksi!
+[05/06/2022 - 10:49:48] - [FACTION]: Klovyn Eduardo mengundang Leon Vorcesno menjadi fraksi!
+[05/06/2022 - 10:50:53] - [FACTION]: Klovyn Eduardo menyetel fraksi Leon Vorcesno ke rank!
+[05/06/2022 - 10:51:00] - [FACTION]: Klovyn Eduardo menyetel fraksi Leon Vorcesno ke rank!
+[05/06/2022 - 10:52:03] - [FACTION]: Klovyn Eduardo menyetel fraksi Leon Vorcesno ke rank!
+[05/06/2022 - 13:34:47] - [FACTION]: Klovyn Eduardo menyetel fraksi Leon Vorcesno ke rank!
+[05/06/2022 - 13:35:21] - [FACTION]: Klovyn Eduardo menyetel fraksi Leon Vorcesno ke rank!
+[05/06/2022 - 13:35:53] - [FACTION]: Klovyn Eduardo menyetel fraksi Leon Vorcesno ke rank!
+[05/06/2022 - 19:50:52] - [FACTION]: Rexxy Eduardo mengundang Lucas Albert menjadi fraksi!
+[06/06/2022 - 22:12:42] - [FACTION]: Rexxy Eduardo menilang kendaraan Faggio(id: 84) dengan denda $300!
+[07/06/2022 - 21:38:46] - [FACTION]: Gerry Pokay mempenjarakan Guluu selama 1 hari dan denda $100!
+[07/06/2022 - 21:39:28] - [FACTION]: Rexxy Eduardo membebaskan Guluu dari penjara!
+[10/06/2022 - 19:28:48] - [FACTION]: Rexxy Eduardo mengundang Feliks Feodor menjadi fraksi!
+[10/06/2022 - 19:29:00] - [FACTION]: Rexxy Eduardo menyetel fraksi Feliks Feodor ke rank!
+[10/06/2022 - 22:57:07] - [FACTION]: Leon Vorcesno mengundang Fatur Muhid menjadi fraksi!
+[10/06/2022 - 22:57:38] - [FACTION]: Leon Vorcesno menyetel fraksi Fatur Muhid ke rank!
+[11/06/2022 - 08:29:32] - [FACTION]: Leon Vorcesno menyetel fraksi Fatur Muhid ke rank!
+[11/06/2022 - 21:16:04] - [FACTION]: Rexxy Eduardo menyetel fraksi Maximilanio Delacruz ke rank!
+[11/06/2022 - 21:16:56] - [FACTION]: Rexxy Eduardo menyetel fraksi Maximilanio Delacruz ke rank!
+[11/06/2022 - 22:15:57] - [FACTION]: Rexxy Eduardo menyetel fraksi Lucas Albert ke rank!
+[11/06/2022 - 22:17:12] - [FACTION]: Rexxy Eduardo menyetel fraksi Lucas Albert ke rank!
+[11/06/2022 - 22:17:21] - [FACTION]: Rexxy Eduardo menyetel fraksi Maximilanio Delacruz ke rank!
+[13/06/2022 - 11:08:03] - [FACTION]: Leon Vorcesno menyetel fraksi Fatur Muhid ke rank!
+[13/06/2022 - 21:52:31] - [FACTION]: Rexxy Eduardo menilang kendaraan NRG-500(id: 89) dengan denda $500!
+[13/06/2022 - 22:46:04] - [FACTION]: Maximilanio Delacruz mempenjarakan Andrew Liam selama 15 hari dan denda $100!
+[15/06/2022 - 20:23:44] - [FACTION]: Rexxy Eduardo menilang kendaraan Flash(id: 83) dengan denda $500!
+[15/06/2022 - 20:46:05] - [FACTION]: Rexxy Eduardo mempenjarakan Joseph Dominic selama 20 hari dan denda $5,000!
+[16/06/2022 - 13:57:57] - [FACTION]: Rexxy Eduardo menilang kendaraan NRG-500(id: 89) dengan denda $200!
+[18/06/2022 - 09:35:49] - [FACTION]: Alex Stevano menilang kendaraan Remington(id: 82) dengan denda $100!
+[19/06/2022 - 02:59:03] - [FACTION]: Maximilanio Delacruz mempenjarakan Leon Vorcesno selama 25 hari dan denda $1,000!
+[19/06/2022 - 12:12:56] - [FACTION]: Alex Stevano mempenjarakan Joseph Dominic selama 30 hari dan denda $1,000!
+[19/06/2022 - 12:40:30] - [FACTION]: Jamal Sakamaluddin mengundang Edric Hugo menjadi fraksi!
+[19/06/2022 - 14:39:59] - [FACTION]: Jamal Sakamaluddin mengundang Han Paulo menjadi fraksi!
+[19/06/2022 - 20:10:42] - [FACTION]: Alex Stevano menilang kendaraan Sadler(id: 120) dengan denda $300!
+[19/06/2022 - 21:11:27] - [FACTION]: Alex Stevano menilang kendaraan Yosemite(id: 114) dengan denda $500!
+[19/06/2022 - 21:11:28] - [FACTION]: Alex Stevano menilang kendaraan Yosemite(id: 114) dengan denda $500!
+[19/06/2022 - 22:23:00] - [FACTION]: Rexxy Eduardo menyetel fraksi Alex Stevano ke rank!
+[19/06/2022 - 23:28:37] - [FACTION]: Rexxy Eduardo mengundang Mitsuki Ichirouta menjadi fraksi!
+[19/06/2022 - 23:37:13] - [FACTION]: Rexxy Eduardo mengeluarkan Alex Stevano dari fraksi!
+[20/06/2022 - 00:37:52] - [FACTION]: Jade Barret mengundang Carlos Matthew menjadi fraksi!
+[20/06/2022 - 00:40:00] - [FACTION]: Maximilanio Delacruz mempenjarakan Gorou Gamakichi selama 30 hari dan denda $1,000!
+[20/06/2022 - 01:12:53] - [FACTION]: Rexxy Eduardo menilang kendaraan Savanna(id: 121) dengan denda $200!
+[20/06/2022 - 01:25:23] - [FACTION]: Jade Barret mengundang Cendy Firce menjadi fraksi!
+[20/06/2022 - 10:11:04] - [FACTION]: Jade Barret mengundang Thomas Stamford menjadi fraksi!
+[20/06/2022 - 20:34:41] - [FACTION]: Rexxy Eduardo menilang kendaraan Faggio(id: 102) dengan denda $200!
+[21/06/2022 - 02:44:27] - [FACTION]: Maximilanio Delacruz mempenjarakan Clairo Alexandro selama 10 hari dan denda $100!
+[21/06/2022 - 21:11:09] - [FACTION]: Rexxy Eduardo menyetel fraksi Mitsuki Ichirouta ke rank!
+[22/06/2022 - 02:18:47] - [FACTION]: Maximilanio Delacruz mempenjarakan Mask 69343 selama 30 hari dan denda $1,000!
+[22/06/2022 - 02:27:45] - [FACTION]: Maximilanio Delacruz mempenjarakan Jack Stronghold selama 30 hari dan denda $1,000!
+[22/06/2022 - 02:53:23] - [FACTION]: Maximilanio Delacruz mempenjarakan Max Stronghold selama 30 hari dan denda $1,000!
+[22/06/2022 - 16:00:32] - [FACTION]: Jamal Sakamaluddin menyetel fraksi Han Paulo ke rank!
+[22/06/2022 - 22:20:38] - [FACTION]: Rexxy Eduardo mengundang Steven Arkwoods menjadi fraksi!
+[22/06/2022 - 22:21:14] - [FACTION]: Rexxy Eduardo mengundang Atsushi Shinjiro menjadi fraksi!
+[22/06/2022 - 22:22:04] - [FACTION]: Rexxy Eduardo mengundang Jack Sparco menjadi fraksi!
+[22/06/2022 - 22:22:44] - [FACTION]: Rexxy Eduardo mengundang Saipul Amri menjadi fraksi!
+[22/06/2022 - 22:24:26] - [FACTION]: Rexxy Eduardo mengundang Nikhanz Ndar menjadi fraksi!
+[22/06/2022 - 22:24:39] - [FACTION]: Rexxy Eduardo mengundang Nikhanz Ndar menjadi fraksi!
+[22/06/2022 - 22:25:19] - [FACTION]: Rexxy Eduardo mengundang Nikhanz Ndar menjadi fraksi!
+[22/06/2022 - 22:53:33] - [FACTION]: Jade Barret mengundang Vito Costanza menjadi fraksi!
+[22/06/2022 - 23:18:03] - [FACTION]: Rexxy Eduardo menilang kendaraan Jester(id: 106) dengan denda $500!
+[22/06/2022 - 23:23:56] - [FACTION]: Rexxy Eduardo mempenjarakan Robert Alexander selama 60 hari dan denda $20,000!
+[23/06/2022 - 00:13:18] - [FACTION]: Rexxy Eduardo mengeluarkan Angga Ilhamsyah dari fraksi!
+[23/06/2022 - 01:06:59] - [FACTION]: Saipul Amri mempenjarakan Revan Valent selama 20 hari dan denda $100!
+[23/06/2022 - 10:44:30] - [FACTION]: Atsushi Shinjiro mempenjarakan Ryu Nakozawa selama 15 hari dan denda $1,000!
+[23/06/2022 - 14:05:50] - [FACTION]: Feliks Feodor mengundang Hadad Agatsuma menjadi fraksi!
+[23/06/2022 - 14:06:24] - [FACTION]: Feliks Feodor mengundang Hadad Agatsuma menjadi fraksi!
+[23/06/2022 - 17:20:41] - [FACTION]: Han Paulo menyetel fraksi Edric Hugo ke rank!
+[23/06/2022 - 17:41:00] - [FACTION]: Atsushi Shinjiro mempenjarakan Don Juan selama 5 hari dan denda $100!
+[23/06/2022 - 18:08:16] - [FACTION]: Saipul Amri mempenjarakan Pablo Yamazaki selama 6 hari dan denda $100!
+[23/06/2022 - 18:21:43] - [FACTION]: JaTaveon Ward menyetel fraksi Francesca Ward ke rank!
+[23/06/2022 - 18:21:49] - [FACTION]: Francesca Ward menyetel fraksi JaTaveon Ward ke rank!
+[23/06/2022 - 18:21:51] - [FACTION]: JaTaveon Ward menyetel fraksi Francesca Ward ke rank!
+[23/06/2022 - 18:21:52] - [FACTION]: JaTaveon Ward menyetel fraksi Francesca Ward ke rank!
+[23/06/2022 - 18:22:09] - [FACTION]: Francesca Ward menyetel fraksi Antonio Whitford ke rank!
+[23/06/2022 - 18:22:15] - [FACTION]: Francesca Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:23] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:23] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:28] - [FACTION]: Adam Marcell menyetel fraksi Francesca Ward ke rank!
+[23/06/2022 - 18:22:28] - [FACTION]: Antonio Whitford menyetel fraksi Azrealon Deandra ke rank!
+[23/06/2022 - 18:22:29] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:29] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:30] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:30] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:30] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:30] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:31] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:31] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:31] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:32] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:32] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:32] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:33] - [FACTION]: Francesca Ward menyetel fraksi Azrealon Deandra ke rank!
+[23/06/2022 - 18:22:33] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:33] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:33] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:34] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:34] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:34] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:35] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:35] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:35] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:36] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:36] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:36] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:36] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:37] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:37] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:37] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:38] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:38] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:38] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:39] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:39] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:39] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:40] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:41] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:41] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:42] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:42] - [FACTION]: Antonio Whitford menyetel fraksi JaTaveon Ward ke rank!
+[23/06/2022 - 18:22:43] - [FACTION]: JaTaveon Ward menyetel fraksi Adam Marcell ke rank!
+[23/06/2022 - 18:22:52] - [FACTION]: Francesca Ward menyetel fraksi Azrealon Deandra ke rank!
+[23/06/2022 - 18:22:53] - [FACTION]: Francesca Ward menyetel fraksi Azrealon Deandra ke rank!
+[23/06/2022 - 20:34:18] - [FACTION]: JaTaveon Ward menyetel fraksi Antonio Whitford ke rank!
+[23/06/2022 - 22:01:18] - [FACTION]: Nikhanz Ndar menilang kendaraan Bobcat(id: 83) dengan denda $500!
+[23/06/2022 - 22:03:02] - [FACTION]: Nikhanz Ndar menilang kendaraan Faggio(id: 114) dengan denda $500!
+[23/06/2022 - 22:15:57] - [FACTION]: Atsushi Shinjiro mempenjarakan Andrew Liam selama 30 hari dan denda $100!
+[23/06/2022 - 22:51:36] - [FACTION]: Saipul Amri mempenjarakan Gun Cooper selama 3 hari dan denda $200!
+[23/06/2022 - 23:17:34] - [FACTION]: Rexxy Eduardo mengundang Angga Ilhamsyah menjadi fraksi!
+[23/06/2022 - 23:17:50] - [FACTION]: Rexxy Eduardo mengundang Angga Ilhamsyah menjadi fraksi!
+[23/06/2022 - 23:18:34] - [FACTION]: Rexxy Eduardo mengundang Angga Ilhamsyah menjadi fraksi!
+[23/06/2022 - 23:18:59] - [FACTION]: Rexxy Eduardo mengundang Angga Ilhamsyah menjadi fraksi!
+[23/06/2022 - 23:33:10] - [FACTION]: Saipul Amri menilang kendaraan Sanchez(id: 101) dengan denda $500!
+[23/06/2022 - 23:34:23] - [FACTION]: Saipul Amri menilang kendaraan Sanchez(id: 101) dengan denda $500!
+[23/06/2022 - 23:59:06] - [FACTION]: Rexxy Eduardo mempenjarakan Hadad Agatsuma selama 15 hari dan denda $100!
+[23/06/2022 - 23:59:48] - [FACTION]: Maximilanio Delacruz mempenjarakan Andrew Liam selama 30 hari dan denda $500!
+[24/06/2022 - 14:40:52] - [FACTION]: Saipul Amri menilang kendaraan Blade(id: 89) dengan denda $500!
+[24/06/2022 - 20:06:46] - [FACTION]: Joe Alvarado menyetel fraksi Atsushi Shinjiro ke rank!
+[24/06/2022 - 20:08:59] - [FACTION]: Mitsuki Ichirouta mempenjarakan Randals Rhymes selama 10 hari dan denda $200!
+[24/06/2022 - 20:11:01] - [FACTION]: Mitsuki Ichirouta membebaskan Randals Rhymes dari penjara!
+[24/06/2022 - 20:13:37] - [FACTION]: Mitsuki Ichirouta mempenjarakan Randals Rhymes selama 30 hari dan denda $100!
+[24/06/2022 - 20:24:40] - [FACTION]: Mitsuki Ichirouta mempenjarakan Andrew Liam selama 30 hari dan denda $100!
+[24/06/2022 - 20:47:47] - [FACTION]: Mitsuki Ichirouta mempenjarakan Falz Carlo selama 30 hari dan denda $1,200!
+[24/06/2022 - 20:53:54] - [FACTION]: Atsushi Shinjiro mempenjarakan Gun Cooper selama 60 hari dan denda $500!
+[24/06/2022 - 20:57:26] - [FACTION]: Rexxy Eduardo menyetel fraksi Atsushi Shinjiro ke rank!
+[25/06/2022 - 00:39:50] - [FACTION]: Maximilanio Delacruz mempenjarakan Don Juan selama 30 hari dan denda $500!
+[25/06/2022 - 00:39:56] - [FACTION]: Maximilanio Delacruz mempenjarakan Kelz Nid selama 30 hari dan denda $500!
+[25/06/2022 - 12:28:32] - [FACTION]: Nikhanz Ndar menilang kendaraan Slamvan(id: 111) dengan denda $500!
+[25/06/2022 - 13:10:04] - [FACTION]: Saipul Amri menilang kendaraan Flash(id: 94) dengan denda $500!
+[25/06/2022 - 13:14:47] - [FACTION]: Saipul Amri menilang kendaraan Bobcat(id: 104) dengan denda $500!
+[25/06/2022 - 13:37:21] - [FACTION]: Saipul Amri menilang kendaraan Slamvan(id: 89) dengan denda $500!
+[25/06/2022 - 13:37:22] - [FACTION]: Saipul Amri menilang kendaraan Slamvan(id: 89) dengan denda $500!
+[25/06/2022 - 13:37:23] - [FACTION]: Saipul Amri menilang kendaraan Slamvan(id: 89) dengan denda $500!
+[25/06/2022 - 13:37:23] - [FACTION]: Saipul Amri menilang kendaraan Slamvan(id: 89) dengan denda $500!
+[25/06/2022 - 13:39:39] - [FACTION]: Saipul Amri menilang kendaraan Slamvan(id: 111) dengan denda $500!
+[25/06/2022 - 13:39:40] - [FACTION]: Saipul Amri menilang kendaraan Slamvan(id: 111) dengan denda $500!
+[25/06/2022 - 13:39:40] - [FACTION]: Saipul Amri menilang kendaraan Slamvan(id: 111) dengan denda $500!
+[25/06/2022 - 15:11:42] - [FACTION]: Jamal Sakamaluddin menyetel fraksi Han Paulo ke rank!
+[25/06/2022 - 15:11:56] - [FACTION]: Jamal Sakamaluddin menyetel fraksi Edric Hugo ke rank!
+[25/06/2022 - 16:41:14] - [FACTION]: Nikhanz Ndar menilang kendaraan Faggio(id: 110) dengan denda $300!
+[25/06/2022 - 18:52:19] - [FACTION]: Atsushi Shinjiro mempenjarakan Sean MacGuire selama 7 hari dan denda $100!
+[25/06/2022 - 19:55:38] - [FACTION]: Han Paulo mengundang Robbert Alexander menjadi fraksi!
+[25/06/2022 - 21:11:49] - [FACTION]: Rexxy Eduardo menyetel fraksi Jack Sparco ke rank!
+[25/06/2022 - 21:12:09] - [FACTION]: Rexxy Eduardo menyetel fraksi Steven Arkwoods ke rank!
+[25/06/2022 - 21:34:47] - [FACTION]: Jack Sparco menilang kendaraan FCR-900(id: 81) dengan denda $50!
+[26/06/2022 - 00:02:33] - [FACTION]: Han Paulo mengundang Brexley Alejandro menjadi fraksi!
+[26/06/2022 - 00:03:08] - [FACTION]: Han Paulo mengundang Clendon Moran menjadi fraksi!
+[26/06/2022 - 00:28:19] - [FACTION]: Clendon Moran menyetel fraksi Brexley Alejandro ke rank!
+[26/06/2022 - 00:28:21] - [FACTION]: Clendon Moran menyetel fraksi Brexley Alejandro ke rank!
+[26/06/2022 - 00:28:22] - [FACTION]: Clendon Moran menyetel fraksi Brexley Alejandro ke rank!
+[26/06/2022 - 00:30:00] - [FACTION]: Han Paulo mengeluarkan Brexley Alejandro dari fraksi!
+[26/06/2022 - 15:47:37] - [FACTION]: Nikhanz Ndar menilang kendaraan Mountain Bike(id: 85) dengan denda $100!
+[26/06/2022 - 20:11:08] - [FACTION]: Jamal Sakamaluddin mengundang Francesca Ward menjadi fraksi!
+[26/06/2022 - 20:11:55] - [FACTION]: Jamal Sakamaluddin menyetel fraksi Francesca Ward ke rank!
+[26/06/2022 - 20:32:25] - [FACTION]: Jamal Sakamaluddin mengundang Rizki Nugraha menjadi fraksi!
+[26/06/2022 - 20:32:51] - [FACTION]: Jamal Sakamaluddin menyetel fraksi Rizki Nugraha ke rank!
+[26/06/2022 - 20:55:27] - [FACTION]: Clendon Moran menyetel fraksi Edric Hugo ke rank!
+[26/06/2022 - 20:55:36] - [FACTION]: Clendon Moran menyetel fraksi Edric Hugo ke rank!
+[26/06/2022 - 20:55:37] - [FACTION]: Clendon Moran menyetel fraksi Edric Hugo ke rank!
+[26/06/2022 - 20:56:22] - [FACTION]: Clendon Moran menyetel fraksi Jamal Sakamaluddin ke rank!
+[26/06/2022 - 20:56:28] - [FACTION]: Clendon Moran menyetel fraksi Jamal Sakamaluddin ke rank!
+[26/06/2022 - 20:56:28] - [FACTION]: Robbert Alexander menyetel fraksi Jamal Sakamaluddin ke rank!
+[26/06/2022 - 20:56:52] - [FACTION]: Clendon Moran menyetel fraksi Jamal Sakamaluddin ke rank!
+[26/06/2022 - 20:56:54] - [FACTION]: Robbert Alexander menyetel fraksi Jamal Sakamaluddin ke rank!
+[26/06/2022 - 20:57:04] - [FACTION]: Clendon Moran menyetel fraksi Edric Hugo ke rank!
+[26/06/2022 - 20:57:11] - [FACTION]: Clendon Moran menyetel fraksi Robbert Alexander ke rank!
+[26/06/2022 - 20:57:18] - [FACTION]: Jamal Sakamaluddin menyetel fraksi Clendon Moran ke rank!
+[26/06/2022 - 20:58:01] - [FACTION]: Clendon Moran menyetel fraksi Edric Hugo ke rank!
+[26/06/2022 - 20:58:10] - [FACTION]: Clendon Moran menyetel fraksi Robbert Alexander ke rank!
+[26/06/2022 - 20:58:10] - [FACTION]: Clendon Moran menyetel fraksi Robbert Alexander ke rank!
+[26/06/2022 - 20:58:12] - [FACTION]: Clendon Moran menyetel fraksi Robbert Alexander ke rank!
+[26/06/2022 - 20:58:12] - [FACTION]: Clendon Moran menyetel fraksi Robbert Alexander ke rank!
+[26/06/2022 - 20:58:13] - [FACTION]: Clendon Moran menyetel fraksi Robbert Alexander ke rank!
+[26/06/2022 - 20:58:15] - [FACTION]: Clendon Moran menyetel fraksi Robbert Alexander ke rank!
+[26/06/2022 - 20:58:26] - [FACTION]: Robbert Alexander menyetel fraksi Clendon Moran ke rank!
+[26/06/2022 - 20:58:28] - [FACTION]: Robbert Alexander menyetel fraksi Clendon Moran ke rank!
+[26/06/2022 - 20:58:31] - [FACTION]: Robbert Alexander menyetel fraksi Clendon Moran ke rank!
+[26/06/2022 - 20:58:34] - [FACTION]: Clendon Moran menyetel fraksi Robbert Alexander ke rank!
+[26/06/2022 - 20:58:36] - [FACTION]: Clendon Moran menyetel fraksi Robbert Alexander ke rank!
+[26/06/2022 - 20:58:37] - [FACTION]: Clendon Moran menyetel fraksi Robbert Alexander ke rank!
+[26/06/2022 - 20:59:16] - [FACTION]: Clendon Moran menyetel fraksi Robbert Alexander ke rank!
+[26/06/2022 - 21:00:12] - [FACTION]: Jamal Sakamaluddin menyetel fraksi Robbert Alexander ke rank!
+[26/06/2022 - 21:00:28] - [FACTION]: Jamal Sakamaluddin menyetel fraksi Robbert Alexander ke rank!
+[27/06/2022 - 09:04:25] - [FACTION]: Nikhanz Ndar menilang kendaraan Sultan(id: 84) dengan denda $200!
+[27/06/2022 - 13:51:17] - [FACTION]: Nikhanz Ndar menilang kendaraan Faggio(id: 91) dengan denda $300!
+[27/06/2022 - 20:48:46] - [FACTION]: Nikhanz Ndar menilang kendaraan Sultan(id: 83) dengan denda $500!
+[27/06/2022 - 21:47:01] - [FACTION]: Nikhanz Ndar menilang kendaraan NRG-500(id: 134) dengan denda $500!
+[27/06/2022 - 22:43:36] - [FACTION]: Nikhanz Ndar menilang kendaraan Comet(id: 93) dengan denda $500!
+[27/06/2022 - 22:43:49] - [FACTION]: Nikhanz Ndar menilang kendaraan Sultan(id: 94) dengan denda $500!
+[27/06/2022 - 22:57:41] - [FACTION]: Nikhanz Ndar menilang kendaraan Sultan(id: 94) dengan denda $500!
+[27/06/2022 - 22:57:48] - [FACTION]: Nikhanz Ndar menilang kendaraan Comet(id: 93) dengan denda $500!
+[27/06/2022 - 22:57:51] - [FACTION]: Nikhanz Ndar menilang kendaraan Comet(id: 93) dengan denda $500!
+[27/06/2022 - 22:57:52] - [FACTION]: Nikhanz Ndar menilang kendaraan Comet(id: 93) dengan denda $500!
+[27/06/2022 - 22:58:02] - [FACTION]: Nikhanz Ndar menilang kendaraan Sultan(id: 94) dengan denda $500!
+[27/06/2022 - 22:58:04] - [FACTION]: Nikhanz Ndar menilang kendaraan Sultan(id: 94) dengan denda $500!
+[28/06/2022 - 02:04:15] - [FACTION]: Jade Barret mengeluarkan Cendy Firce dari fraksi!
+[28/06/2022 - 14:14:01] - [FACTION]: Rexxy Eduardo menyetel fraksi Nikhanz Ndar ke rank!
+[28/06/2022 - 14:25:55] - [FACTION]: Rexxy Eduardo mempenjarakan Afon Konstantin selama 5 hari dan denda $200!
+[28/06/2022 - 17:40:17] - [FACTION]: Rexxy Eduardo mengeluarkan Joe Alvarado dari fraksi!
+[28/06/2022 - 18:00:20] - [FACTION]: Han Paulo mengeluarkan Edric Hugo dari fraksi!
+[28/06/2022 - 18:10:32] - [FACTION]: Leon mengeluarkan Joe Alvarado dari fraksi!
+[28/06/2022 - 18:10:57] - [FACTION]: Leon mengundang Joe Alvarado menjadi fraksi!
+[28/06/2022 - 18:11:26] - [FACTION]: Leon mengeluarkan Joe Alvarado dari fraksi!
+[28/06/2022 - 18:48:12] - [FACTION]: Rexxy Eduardo menyetel fraksi Steven Arkwoods ke rank!
+[28/06/2022 - 18:49:42] - [FACTION]: Jamal Sakamaluddin menyetel fraksi Robbert Alexander ke rank!
+[28/06/2022 - 18:50:53] - [FACTION]: Steven Arkwoods mengeluarkan Rexxy Eduardo dari fraksi!
+[28/06/2022 - 18:51:32] - [FACTION]: Steven Arkwoods mengundang Rexxy Eduardo menjadi fraksi!
+[28/06/2022 - 19:37:18] - [FACTION]: Steven Arkwoods menyetel fraksi Nikhanz Ndar ke rank!
+[28/06/2022 - 20:01:56] - [FACTION]: Jamal Sakamaluddin menyetel fraksi Eza Toretto ke rank!
+[28/06/2022 - 20:03:37] - [FACTION]: Jamal Sakamaluddin menyetel fraksi Clendon Moran ke rank!
+[28/06/2022 - 20:08:21] - [FACTION]: Steven Arkwoods menyetel fraksi Jack Sparco ke rank!
+[28/06/2022 - 20:57:32] - [FACTION]: Saipul Amri mempenjarakan Brexley Alejandro selama 10 hari dan denda $100!
+[28/06/2022 - 20:58:04] - [FACTION]: Steven Arkwoods menyetel fraksi Saipul Amri ke rank!
+[28/06/2022 - 21:19:11] - [FACTION]: Saipul Amri mempenjarakan Rexxy Eduardo selama 25 hari dan denda $2,000!
+[28/06/2022 - 21:25:13] - [FACTION]: Steven Arkwoods menyetel fraksi Atsushi Shinjiro ke rank!
+[28/06/2022 - 21:27:32] - [FACTION]: Steven Arkwoods menyetel fraksi Jack Sparco ke rank!
+[28/06/2022 - 21:27:44] - [FACTION]: Steven Arkwoods menyetel fraksi Maximilanio Delacruz ke rank!
+[28/06/2022 - 21:27:57] - [FACTION]: Steven Arkwoods menyetel fraksi Saipul Amri ke rank!
+[28/06/2022 - 21:28:03] - [FACTION]: Steven Arkwoods menyetel fraksi Nikhanz Ndar ke rank!
+[28/06/2022 - 21:50:50] - [FACTION]: Steven Arkwoods mengeluarkan Maximilanio Delacruz dari fraksi!
+[28/06/2022 - 23:58:41] - [FACTION]: Jade Barret mengeluarkan Carlos Matthew dari fraksi!
+[29/06/2022 - 09:22:54] - [FACTION]: Nikhanz Ndar menilang kendaraan Premier(id: 90) dengan denda $500!
+[29/06/2022 - 09:22:56] - [FACTION]: Nikhanz Ndar menilang kendaraan Premier(id: 90) dengan denda $500!
+[29/06/2022 - 09:22:57] - [FACTION]: Nikhanz Ndar menilang kendaraan Premier(id: 90) dengan denda $500!
+[29/06/2022 - 09:22:59] - [FACTION]: Nikhanz Ndar menilang kendaraan Premier(id: 90) dengan denda $500!
+[29/06/2022 - 15:32:49] - [FACTION]: Jade Barret mengundang Azuma Karatachi menjadi fraksi!
+[29/06/2022 - 15:33:19] - [FACTION]: Jade Barret mengundang Azuma Karatachi menjadi fraksi!
+[29/06/2022 - 20:58:25] - [FACTION]: Steven Arkwoods mengundang Andrew Liam menjadi fraksi!
+[29/06/2022 - 20:59:06] - [FACTION]: Steven Arkwoods mengundang Julian Wilbert menjadi fraksi!
+[29/06/2022 - 20:59:38] - [FACTION]: Steven Arkwoods mengundang Gun Cooper menjadi fraksi!
+[29/06/2022 - 23:57:27] - [FACTION]: Leon Vorcesno mengeluarkan Mitsuki Ichirouta dari fraksi!
+[30/06/2022 - 11:12:36] - [FACTION]: Guluu menyetel fraksi Robbert Alexander ke rank!
+[30/06/2022 - 11:13:35] - [FACTION]: Guluu menyetel fraksi Robbert Alexander ke rank!
+[30/06/2022 - 11:14:05] - [FACTION]: Guluu menyetel fraksi Robbert Alexander ke rank!
+[30/06/2022 - 11:14:15] - [FACTION]: Guluu menyetel fraksi Robbert Alexander ke rank!
+[30/06/2022 - 11:17:33] - [FACTION]: Robbert Alexander mengundang Lucas Albert menjadi fraksi!
+[30/06/2022 - 11:17:51] - [FACTION]: Robbert Alexander menyetel fraksi Lucas Albert ke rank!
+[30/06/2022 - 11:19:10] - [FACTION]: Robbert Alexander menyetel fraksi Eza Toretto ke rank!
+[30/06/2022 - 11:22:48] - [FACTION]: Robbert Alexander menyetel fraksi Eza Toretto ke rank!
+[30/06/2022 - 11:51:57] - [FACTION]: Jamal Sakamaluddin menyetel fraksi Robbert Alexander ke rank!
+[30/06/2022 - 16:14:03] - [FACTION]: Jade Barret mengeluarkan Vito Costanza dari fraksi!
+[18/12/2022 - 08:38:50] - [FACTION]: Nano Lezovsky mengundang Izan Akbar menjadi fraksi!
+[18/12/2022 - 08:40:35] - [FACTION]: Nano Lezovsky menyetel fraksi Izan Akbar ke rank!
+[19/12/2022 - 13:19:36] - [FACTION]: Arthur Cello mengundang Almarao Felizio menjadi fraksi!
+[19/12/2022 - 13:20:06] - [FACTION]: Arthur Cello menyetel fraksi Almarao Felizio ke rank!
+[19/12/2022 - 13:22:00] - [FACTION]: Arthur Cello mengundang Sanofa Dlopez menjadi fraksi!
+[19/12/2022 - 13:22:28] - [FACTION]: Arthur Cello menyetel fraksi Sanofa Dlopez ke rank!
+[19/12/2022 - 15:35:52] - [FACTION]: Arthur Cello mengundang Bendito Massimo menjadi fraksi!
+[20/12/2022 - 08:15:32] - [FACTION]: Arthur mengundang Riel Julians menjadi fraksi!
+[20/12/2022 - 19:41:02] - [FACTION]: Riel Julians mempenjarakan Abdul Franklin selama 1 hari dan denda $100!
+[21/12/2022 - 16:59:54] - [FACTION]: Riel Julians mempenjarakan Riel Julians selama 1 hari dan denda $100!
+[21/12/2022 - 22:19:18] - [FACTION]: Arthur Cello menyetel fraksi Riel Julians ke rank!
+[21/12/2022 - 22:20:50] - [FACTION]: Arthur Cello menyetel fraksi Sanofa Dlopez ke rank!
+[21/12/2022 - 22:21:03] - [FACTION]: Arthur Cello menyetel fraksi Riel Julians ke rank!
+[22/12/2022 - 20:49:40] - [FACTION]: Arthur Cello menyetel fraksi Riel Julians ke rank!
+[22/12/2022 - 20:54:00] - [FACTION]: Arthur Cello mengundang Eboy Jervanos menjadi fraksi!
+[22/12/2022 - 21:23:01] - [FACTION]: Arthur Cello mengundang Abdul Franklin menjadi fraksi!
+[02/05/2023 - 00:53:53] - [FACTION]: Rafly Paleka mengundang Sentot Apollo menjadi fraksi!
+[02/05/2023 - 00:54:01] - [FACTION]: Rafly Paleka menyetel fraksi Sentot Apollo ke rank!
+[24/05/2023 - 21:21:40] - [FACTION]: Bryant Noumihada mengundang Max Escanor menjadi fraksi!
+[27/05/2023 - 00:20:19] - [FACTION]: Asep Supriyanto mengundang Adit Zoldyck menjadi fraksi!
+[27/05/2023 - 00:20:35] - [FACTION]: Asep Supriyanto mengundang Morgan Zoldyck menjadi fraksi!
+[27/05/2023 - 00:22:13] - [FACTION]: Asep Supriyanto menyetel fraksi Morgan Zoldyck ke rank!
+[27/05/2023 - 00:22:24] - [FACTION]: Asep Supriyanto menyetel fraksi Adit Zoldyck ke rank!
+[27/05/2023 - 00:22:33] - [FACTION]: Asep Supriyanto menyetel fraksi Morgan Zoldyck ke rank!
+[28/05/2023 - 22:12:38] - [FACTION]: Asep Supriyanto mengundang Ryuma Hoshi menjadi fraksi!
+[28/05/2023 - 22:12:39] - [FACTION]: Asep Supriyanto mengundang Rehan Ahmad menjadi fraksi!
+[28/05/2023 - 22:18:54] - [FACTION]: AsepBoxxing mengundang Ryuma Hoshi menjadi fraksi!
+[28/05/2023 - 22:19:06] - [FACTION]: AsepBoxxing mengundang Ryuma Hoshi menjadi fraksi!
+[28/05/2023 - 22:20:42] - [FACTION]: AsepBoxxing menyetel fraksi Ryuma Hoshi ke rank!
+[28/05/2023 - 22:20:47] - [FACTION]: AsepBoxxing menyetel fraksi Rehan Ahmad ke rank!
+[28/05/2023 - 23:41:30] - [FACTION]: Asep Supriyanto mengundang Ocen Boentoet menjadi fraksi!
+[28/05/2023 - 23:42:13] - [FACTION]: Asep Supriyanto menyetel fraksi Ocen Boentoet ke rank!
+[29/05/2023 - 00:53:59] - [FACTION]: Asep Supriyanto mengundang Semz Wili menjadi fraksi!
+[29/05/2023 - 00:54:10] - [FACTION]: Asep Supriyanto mengeluarkan Semz Wili dari fraksi!
+[29/05/2023 - 02:09:23] - [FACTION]: Asep Supriyanto mengeluarkan Ocen Boentoet dari fraksi!
+[02/06/2023 - 13:44:21] - [FACTION]: Jasiel Vanostra mengundang Rigor Gaaltier menjadi fraksi!
+[02/06/2023 - 13:45:17] - [FACTION]: Jasiel Vanostra mengundang Rhea Hoshino menjadi fraksi!
+[02/06/2023 - 16:38:07] - [FACTION]: Elpablo Romeros mengundang Max Hayes menjadi fraksi!
+[02/06/2023 - 16:54:31] - [FACTION]: Reguel Escobar mengundang Jack Vincenzo menjadi fraksi!
+[02/06/2023 - 18:21:15] - [FACTION]: Miles Western mengundang Daus Sanjayana menjadi fraksi!
+[02/06/2023 - 20:14:43] - [FACTION]: AboutAlee menilang kendaraan Freeway(id: 4) dengan denda $1!
+[02/06/2023 - 20:15:46] - [FACTION]: AboutAlee menilang kendaraan Freeway(id: 4) dengan denda $500!
+[02/06/2023 - 20:19:25] - [FACTION]: AboutAlee mempenjarakan Maxxy Dacammora selama 100 hari dan denda $1,000!
+[12/06/2023 - 21:29:56] - [FACTION]: AufaXAwa mempenjarakan AufaXAwa selama 10 hari dan denda $100!

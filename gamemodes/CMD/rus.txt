@@ -1,0 +1,12 @@
+D:\AMAZED ROLEPLAY\gamemodes\MODULE\CMD\ADMIN.pwn(481) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "pData"
+D:\AMAZED ROLEPLAY\gamemodes\MODULE\CMD\ADMIN.pwn(481) : ïðåäóïðåæäåíèå 215: âûðàæåíèå íå èìååò ýôôåêòà
+D:\AMAZED ROLEPLAY\gamemodes\MODULE\CMD\ADMIN.pwn(481) : îøèáêà 001: îæèäàëñÿ òîêåí ";", íî íàéäåí "]"
+D:\AMAZED ROLEPLAY\gamemodes\MODULE\CMD\ADMIN.pwn(481) : îøèáêà 029: íåïðàâèëüíîå âûðàæåíèå, ïðèíÿò íîëü
+D:\AMAZED ROLEPLAY\gamemodes\MODULE\CMD\ADMIN.pwn(481) : ôàòàëüíàÿ îøèáêà 107: ñëèøêîì ìíîãî îøèáîê íà îäíîé ñòðîêå
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:4.
